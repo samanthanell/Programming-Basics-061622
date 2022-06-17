@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.center-box {
+    height: 150px;
+    background-color: #190080;
+    padding: 20px;
+    align-items:center;
+    display: flex;
+    justify-content: center
+    
+
+}
+.center-item {
+    height: 70px;
+    width: 70px;
+    background-color: #FAE5B5;
+
+    
+    
+}
